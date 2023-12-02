@@ -1,2 +1,6 @@
 target
 day-*.bench.txt
+/.idea/modules.xml
+/.idea/rust.iml
+/.idea/vcs.xml
+/.idea/.gitignore
